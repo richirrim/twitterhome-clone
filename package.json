@@ -1,0 +1,19 @@
+{
+  "name": "twitterhome-clone",
+  "version": "1.0.0",
+  "description": "Clonando la sección de inicio de twitter",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richirrim/twitterhome-clone.git"
+  },
+  "author": "Ricardo Ortega Chap (@richirrim)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richirrim/twitterhome-clone/issues"
+  },
+  "homepage": "https://github.com/richirrim/twitterhome-clone#readme"
+}
